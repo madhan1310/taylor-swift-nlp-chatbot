@@ -56,8 +56,8 @@ The chatbot was evaluated based on ease of use, accuracy of responses, and overa
   - `knowledge_base.pkl`: Pickle file containing the constructed knowledge base
   - `urls.txt`: List of URLs used for web crawling
 
-* `report.pdf`: Comprehensive final project report
+* `Report.pdf`: Comprehensive final project report
   
-* `NLP_Group_Project.ppt`: PowerPoint presentation of project findings
+* `NLP Group Project.ppt`: PowerPoint presentation of project findings
 
 * `README.md`: Overview and instructions for the project
